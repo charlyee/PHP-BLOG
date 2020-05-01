@@ -8,10 +8,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Local and International Companies</title>
+  <title>Programming Blog</title>
 </head>
 <body>
-  <h1>Top Consulting Companies in Canada</h1>
+  <h1> Top Programming Languages </h1>
   <?php include './includes/navigation.php'; ?>
   <?php
     // New object instance of "Blogs" class.
@@ -19,8 +19,7 @@
     // Output ALL the blogs we found!
     $blogs->output();
   ?>
-  <!-- <h2>Find Blog by Index Number</h2>
-  <p>The third blog is:</p>
+ 
   <?php
     // Output just the third blog (remember, arrays start at index: 0.)
     $blogs->findBlogByIndex( 2 );

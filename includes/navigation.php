@@ -1,27 +1,13 @@
 <nav>
-  <!-- <h2>Naija Blogs</h2> -->
-  <ul>
+   <ul>
     <li>
       <a href="./index.php">Home</a>
     </li>
-    <!-- <li>
-      <a href="./form.php">Form</a>
-    </li>
+  
     <li>
-      <a href="./arrays.php">Arrays</a>
-    </li> -->
-    <!-- <li>
-      <a href="./oop.php">OOP</a>
-    </li> -->
-    <li>
-      <a href="./oop-and-file.php"><strong>>> Top Consulting Companies in Canada <<</strong></a>
+      <a href="./oop-and-file.php"><strong>>> Top Programming Languages <<</strong></a>
     </li>
-    <li>
-      <a href="./internationalblogs.php">International Consulting Companies</a>
-    </li>
-    <li>
-      <a href="./canada.php">Canadian Owned Companies</a>
-    </li>
+
   </ul>
 </nav>
 <?php // By default, anything written in a PHP file will be sent to
