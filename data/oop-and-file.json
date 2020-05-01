@@ -1,29 +1,109 @@
 {
     "blogs": [
       {
-        "name":  "<strong>Accenture</strong>",
-        "website": "www.accenture.com/ca",
-        "about":  "Accenture plc, stylised as accenture, is an Irish-domiciled multinational professional services company that provides services in strategy, consulting, digital, technology and operations. A Fortune Global 500 company, it has been incorporated in Dublin, Ireland since September 1, 2009."
+        "name":  "<strong>HTML5</strong>",
+        "website": "",
+        "about":  "HyperText Markup Language (version 5.)"
       },
       {
-        "name":  "<strong>BCG</strong>",
-        "website": "www.bcg.com",
-        "about":  "Boston Consulting Group is an American management consulting firm founded in 1963. The firm has more than 90 offices in 50 countries, and its current CEO is Rich Lesser. BCG is one of the three biggest employers in management consulting, known as MBB or the Big Three."
+        "name":  "<strong>CSS3</strong>",
+        "website": "",
+        "about":  "Cascading StyleSheets (version 3.)"
       },
       {
-        "name":  "<strong>Monitor Deloitte</strong>",
-        "website": "www2.deloitte.com/ca",
-        "about":  "Monitor Deloitte is the multinational strategy consulting practice of Deloitte Consulting. Monitor Deloitte specializes in providing strategy consultation services to the senior management of major organizations and governments."
+        "name":  "<strong>Bootstrap</strong>",
+        "website": "",
+        "about":  "Bootstrap is a CSS framework, offering you a cornucopia of pre-set classes and styles out-of-the-box."
       },
       {
-        "name":  "<strong>McKinsey</strong>",
-        "website": "www.mckinsey.com",
-        "about":  "McKinsey & Company is an American management consulting firm. McKinsey has published the McKinsey Quarterly since 1964, funds the McKinsey Global Institute research organization, publishes reports on management topics, and has authored influential books on management."
+        "name":  "<strong>Foundation</strong>",
+        "website": "",
+        "about":  "Foundation is a CSS framework, offering you a cornucopia of pre-set classes and styles out-of-the-box."
       },
       {
-        "name":  "<strong>FTI Consulting</strong>",
-        "website": "www.fticonsulting.com",
-        "about":  "FTI Consulting is an independent global business advisory firm dedicated to helping organizations manage change, mitigate risk and resolve disputes: financial, legal, operational, political & regulatory, reputational and transactional. Individually, each practice is a leader in its specific field, staffed with experts recognized for the depth of their knowledge and a track record of making an impact."
+        "name":  "<strong>Bulma</strong>",
+        "website": "",
+        "about":  "Bulma is a CSS framework, offering you a cornucopia of pre-set classes and styles out-of-the-box."
+      },
+      {
+        "name":  "<strong>Semantic UI</strong>",
+        "website": "",
+        "about":  "Foundation is a CSS framework, offering you a cornucopia of pre-set classes and styles out-of-the-box."
+      },
+      {
+        "name":  "<strong>JavaScript</strong>",
+        "website": "",
+        "about":  "Used for functionality, and handling of interactivity, in the front-end of websites."
+      },
+      {
+        "name":  "<strong>ECMAScript 6</strong>",
+        "website": "",
+        "about":  "A specific version of JavaScript that introduces new features like \"class\" arrow-style function."
+      },
+      {
+        "name":  "<strong>jQuery</strong>",
+        "website": "",
+        "about":  "A library intended to assist with backwards compatability, ease of JavaScript plugin creation, and simplification of code."
+      },
+      {
+        "name":  "<strong>Slick</strong>",
+        "website": "",
+        "about":  "A JavaScript library for easy sliders."
+      },
+      {
+        "name":  "<strong>ChartJS</strong>",
+        "website": "",
+        "about":  "A JavaScript library for easy charts."
+      },
+      {
+        "name":  "<strong>Axios</strong>",
+        "website": "",
+        "about":  "A JavaScript library for easy AJAX requests."
+      },
+      {
+        "name":  "<strong>TypeScript</strong>",
+        "website": "",
+        "about":  "A superset of JavaScript with enhanced types."
+      },
+      {
+        "name":  "<strong>React</strong>",
+        "website": "",
+        "about":  "A JavaScript library for managing the interactive \"view\" layer of a website application."
+      },
+      {
+        "name":  "<strong>Redux</strong>",
+        "website": "",
+        "about":  "When \"local\" state isn't enough, Redux provides a more \"global\" solution."
+      },
+      {
+        "name":  "<strong>PHP</strong>",
+        "website": "",
+        "about":  "PHP Hypertext Preprocessor language is used as a general-purpose and website application (server-side) solution."
+      },
+      {
+        "name":  "<strong>WordPress</strong>",
+        "website": "",
+        "about":  "The leading blogging platform on the web, powering more than 30% of websites; built in PHP."
+      },
+      {
+        "name":  "<strong>Databases</strong>",
+        "website": "",
+        "about":  "Used as a persistant storage solution, typically for web or software solutions."
+      },
+      {
+        "name":  "<strong>MySQL</strong>",
+        "website": "",
+        "about":  "A database management system utilizing an \"Structured Query Language\" for request formatting."
+      },
+      {
+        "name":  "<strong>C#</strong>",
+        "website": "",
+        "about":  "A programming language typically utilized for native desktop software or website applications."
+      },
+      {
+        "name":  "<strong>.NET CORE</strong>",
+        "website": "",
+        "about":  "A C# framework developed by Microsoft for accelerated web and desktop application development."
       }
     ]
   }
